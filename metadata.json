@@ -1,0 +1,5 @@
+{
+  "name": "FolioPro - PDF Master",
+  "description": "Professional web application for foliating (bates stamping) and managing PDF documents with real-time preview.",
+  "requestFramePermissions": []
+}
